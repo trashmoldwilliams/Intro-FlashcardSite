@@ -1,9 +1,24 @@
+.container {
+  background-color: #99ccff;
+  padding: 30px;
+  margin: 30px;
+}
+
+p {
+  font-weight: bold;
+  font-size: 20px;
+  font-style: italic;
+  
+
+}
+
 .flashcard1, .flashcard2, .flashcard3, .flashcard4, .flashcard5, .flashcard6, .flashcard7, .flashcard8, .flashcard9, .flashcard10, .flashcard11, .flashcard12, .flashcard13, .flashcard14, .flashcard15, .flashcard16, .flashcard17, .flashcard18 {
   background-color: white;
-  padding: 5px;
+  padding: 20px;
   border: 2px solid black;
   margin: auto;
   border-radius: 10px;
+  height: 125px;
 
 }
 
