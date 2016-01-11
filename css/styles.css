@@ -1,8 +1,80 @@
-.flashcard {
+.flashcard1, .flashcard2, .flashcard3, .flashcard4, .flashcard5, .flashcard6, .flashcard7, .flashcard8, .flashcard9, .flashcard10, .flashcard11, .flashcard12, .flashcard13, .flashcard14, .flashcard15, .flashcard16, .flashcard17, .flashcard18 {
   background-color: white;
   padding: 5px;
   border: 2px solid black;
   margin: auto;
   border-radius: 10px;
 
+}
+
+#JavaScriptDef {
+  display: none;
+}
+
+#ModuloDef {
+  display: none;
+}
+
+#operatorsDef {
+  display: none;
+}
+
+#NaNDef {
+  display: none;
+}
+
+#VariableNamingDef {
+  display: none;
+}
+
+#PlusEqualsDef {
+  display: none;
+}
+
+#FunctionDef {
+  display: none;
+}
+
+#MethodDef {
+  display: none;
+}
+
+#ArgumentDef {
+  display: none;
+}
+
+#StringDef {
+  display: none;
+}
+
+#ChainingDef {
+  display: none;
+}
+
+#EscapeDef {
+  display: none;
+}
+
+#AlertDef {
+  display: none;
+}
+
+#CommentingDef {
+  display: none;
+}
+
+#BooleansDef {
+  display: none;
+}
+
+#UndefinedDef {
+  display: none;
+}
+
+#ParameterDef {
+  display: none;
+}
+
+#ReturnDef {
+  display: none;
 }
