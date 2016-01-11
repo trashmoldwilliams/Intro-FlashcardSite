@@ -1,14 +1,20 @@
-.container {
-  background-color: #99ccff;
-  padding: 30px;
-  margin: 30px;
+body {
+  background-color: lightblue;
 }
+
+/* Header
+=========================*/
+.jumbotron {
+  background-image: url('http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/upfeathers.png');
+}
+
+/*Flashcards
+========================*/
 
 p {
   font-weight: bold;
   font-size: 20px;
   font-style: italic;
-  
 
 }
 
