@@ -111,3 +111,24 @@ p {
   font-weight: bold;
   border-top: 2px solid white;
 }
+
+/* Media Query
+========================*/
+
+@media screen and (max-width: 768px) {
+  p {
+    font-weight: bold;
+    font-size: 17px;
+    font-style: italic;
+
+  }
+}
+
+@media screen and (max-width: 992px) and (min-width: 768px) {
+  p {
+    font-weight: bold;
+    font-size: 18px;
+    font-style: italic;
+
+  }
+}
