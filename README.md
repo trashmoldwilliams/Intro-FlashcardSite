@@ -1,19 +1,25 @@
-#JavaScript Flashcard Site
+# Flashcard Site
 
-##By: Will Johnson & Jordan Meier
+#### By Will Johnson &
 
-##Description:
- This website will allow visitors to study JS and jQuery terminology. In creating this website for week 2 of Epicodus, it allowed us to familiarize ourselves with using JavaScript.
+## Description
 
-##Technologies Used
-  * html
-  * css
-  * JavaScript
-  * jQuery
-  * bootstrap
+An intro to programming assignment to create a flashcard site for computer science terms. The main purpose was to use JQuery to toggle the definition to shown and hidden.
 
-##Link to site:
-jordan-meier.github.io/flashcard-site
+## Setup/Installation Requirements
 
-##Copyright
-© Copyright 2016, Will Johnson & Jordan Meier
+* Clone project
+* Open Index.html
+
+## Technologies Used
+
+* Javascript/JQuery
+
+## Contact
+You can contact me at trashmoldwilliams@gmail.com
+
+### License
+
+*This software is licensed under the MIT license.*
+
+Copyright (c) 2016 Will Johnson &
